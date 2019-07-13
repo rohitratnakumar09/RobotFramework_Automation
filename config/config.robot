@@ -16,4 +16,4 @@ ${DB_PORT}
 
 #************************** Users Variables
 ${USERNAME}               Admin
-${PASSWORD}   		      RohitRatnakumar06@
+${PASSWORD}   		        'password here'
